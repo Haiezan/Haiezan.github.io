@@ -5,8 +5,22 @@ description: "不积跬步,无以至千里."
 header-img: "img/collection.jpg"
 ---
 
+---
+
 * content
 {:toc}
+
+---
+
+## 网站搭建
+
+
+* [ruby](https://www.ruby-lang.org/en/downloads/)
+
+* [ruby in win](https://rubyinstaller.org/downloads/)
+
+* [RubyGems](http://rubygems.org/pages/download)
+
 
 ## 工具
 
