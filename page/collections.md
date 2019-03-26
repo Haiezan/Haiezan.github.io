@@ -24,6 +24,10 @@ header-img: "img/collection.jpg"
 
 ## 工具
 
+* [everything](http://xiazai.sogou.com/detail/34/0/-6579285700090586392.html?e=1970)
+
+    极速的文件搜索工具。
+
 * [box-shadow generator](http://www.cssmatic.com/box-shadow)
 
     生成 box-shadow 的工具。
@@ -32,15 +36,11 @@ header-img: "img/collection.jpg"
 
     渐变生成器。
 
-* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-
-    也是渐变生成器
-
 * [CSS Generators -CSSREFLEX](http://www.cssreflex.com/css-generators/)
 
     CSS3 生成器
 
-- [tiny png](https://tinypng.com/)
+* [tiny png](https://tinypng.com/)
 
     用于压缩 png 或 jpg 的在线工具
 
