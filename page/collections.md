@@ -44,6 +44,11 @@ for /f %%a in ('dir /b *.md') do (
 pause
 ```
 
+* [Node.js](https://nodejs.org/en/download/)
+> 基于 Chrome V8 引擎的 JavaScript 运行环境
+
+* [Notepad++](https://notepad-plus-plus.org/)
+
 ` pandoc AA.md -o BB.docx `
 
 ## GitBook 及其插件
