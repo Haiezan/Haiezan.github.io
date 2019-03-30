@@ -47,11 +47,15 @@ pause
 * [Node.js](https://nodejs.org/en/download/)
 > 基于 Chrome V8 引擎的 JavaScript 运行环境
 
+* [Typora](https://typora.io/#windows)
+
 * [Notepad++](https://notepad-plus-plus.org/)
 
 ` pandoc AA.md -o BB.docx `
 
 ## GitBook 及其插件
+
+` gitbook pdf `
 
 * [Gitbook 的使用和常用插件 -赵达](http://zhaoda.net/2015/11/09/gitbook-plugins/)
 * [gitbook-plugin-expandable-chapters](https://plugins.gitbook.com/plugin/expandable-chapters)
