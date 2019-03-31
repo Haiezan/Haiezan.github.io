@@ -16,6 +16,10 @@ header-img: "img/collection.jpg"
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
+## 论坛
+
+* [Qt开源社区](http://www.qter.org/)
+
 ## Github
 
 * [GithubDesktop](https://desktop.github.com/)
