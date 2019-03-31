@@ -47,6 +47,8 @@ pause
 * [Node.js](https://nodejs.org/en/download/)
 > 基于 Chrome V8 引擎的 JavaScript 运行环境
 
+* [Node.js 各版本](https://nodejs.org/dist/)
+
 * [Typora](https://typora.io/#windows)
 
 * [Notepad++](https://notepad-plus-plus.org/)
