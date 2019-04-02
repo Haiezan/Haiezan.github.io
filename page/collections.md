@@ -117,3 +117,7 @@ pause
 * [图床 https://sm.ms/](https://sm.ms/)
 
     有 API 可用。
+
+## 开心一下
+
+* [Github Games](https://likexia.gitee.io/game/index.html)
