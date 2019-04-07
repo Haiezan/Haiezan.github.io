@@ -36,6 +36,8 @@ header-img: "img/collection.jpg"
 
 ## 文字处理
 
+* [在线Latex公式编辑器](https://www.codecogs.com/latex/eqneditor.php)
+
 * [pandoc](https://github.com/jgm/pandoc/releases)
 
 ```多个文件批量转换
