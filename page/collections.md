@@ -50,6 +50,8 @@ for /f %%a in ('dir /b *.md') do (
 pause
 ```
 
+`pandoc -s m.md -S --reference-docx reference.docx -o m.docx`
+
 * [Node.js](https://nodejs.org/en/download/)
 > 基于 Chrome V8 引擎的 JavaScript 运行环境
 
