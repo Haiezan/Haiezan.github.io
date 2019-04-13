@@ -94,6 +94,10 @@ pause
 
     新建 tab 时，显示 dribbble 上的精选作品。
 
+* [Gestures for Chrome汉化版](https://www.chromefor.com/crxmouse-chrome-gestures_v3-2-0/)
+
+    Chrome浏览器手势插件
+
 ## 实用网站
 
 * [常用中文字体英文名](http://www.ftizi5.com/wenhua/wenzi/3.html)
