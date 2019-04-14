@@ -1,6 +1,6 @@
 
 
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
+![](https://wx1.sinaimg.cn/mw1024/783153a1gy1g2213ikyclj21h70stkjg.jpg)
 
 [![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
 [![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-qiubaiying-qiubaiying-github-io-master)
@@ -53,13 +53,13 @@
 
 ```
 # Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
-description: "Hey"	   	   # 随便说点，描述一下
+title: JS Blog                   # 你的博客网站标题
+SEOTitle: I'm JiaSu | JS Blog		# SEO 标题
+description: "An engineer with computer."	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: qiubaiying     # 你的github账号
-jianshu_username: e71990ada2fd  # 你的简书ID。
+github_username: Haiezan     # 你的github账号
+jianshu_username: Haiezan  # 你的简书ID。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
@@ -76,15 +76,16 @@ yaml 头文件长这样:
 ```
 ---
 layout:     post
-title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
-date:       2016-12-13
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
+title:      抗剪截面验算程序
+subtitle:   解决超限抗剪截面验算难题
+date:       2019-04-14
+author:     JS
+header-img: img/post-bg-earthquake.jpg
 catalog: 	 true
 tags:
-    - iOS
-    - 定时器
+    - 超限
+    - 抗剪截面验算
+    - 剪压比
 ---
 
 ```
@@ -92,7 +93,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
+![](https://wx3.sinaimg.cn/mw1024/783153a1gy1g222c6s5t5j21h70qw420.jpg)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
@@ -100,7 +101,7 @@ tags:
 # Sidebar settings
 sidebar: true  #添加侧边栏
 sidebar-about-description: "简单的描述一下你自己"
-sidebar-avatar: /img/avatar-by.jpg     #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
+sidebar-avatar: /img/about-JS-photo.jpg      #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
 ```
 
 侧边栏是响应式布局的，当屏幕尺寸小于992px的时候，侧边栏就会移动到底部。具体请见bootstrap栅格系统 <http://v3.bootcss.com/css/>
@@ -151,12 +152,17 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
-    },
-    {
-        title: "Apple",
-        href: "https://apple.com/"
+        title: "SAUSG_FAQ",
+        href: "https://haiezan.github.io/SAUSG_FAQ/"
+    },{
+        title: "WCA",
+        href: "https://www.worldcubeassociation.org/"    
+    },{
+        title: "SimWe",
+        href: "http://forum.simwe.com/"
+    },{
+        title: "土木工程网",
+        href: "http://www.civilcn.com/"
     }
 ]
 ```
@@ -273,7 +279,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ## 致谢
 
-1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
+1. 这个模板是从这里 [BY Blog](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢这个作者。 
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 ## License
