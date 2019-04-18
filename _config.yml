@@ -21,6 +21,7 @@ RSS: false
 weibo_username:     2016498593
 zhihu_username:     Haiezan
 github_username:    Haiezan
+gitee_username:     Haiezan
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -103,7 +104,10 @@ friends: [
         href: "https://haiezan.github.io/SAUSG_FAQ/"
     },{
         title: "崔济东的博客",
-        href: "http://www.jdcui.com/"      
+        href: "http://www.jdcui.com/"  
+    },{
+        title: "Gitee Pages",
+        href: "https://haiezan.gitee.io/"      
     },{
         title: "WCA",
         href: "https://www.worldcubeassociation.org/"    
