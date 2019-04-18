@@ -127,5 +127,5 @@ deploy:
   repo:
     - git@github.com:Haiezan/Haiezan.github.io.git
     - git@git.coding.net:Haiezan/Haiezan.coding.me.git
-    - git@git.dev.tencent.com:Haiezan/Haiezan.git
+    - git@git.dev.tencent.com:Haiezan/Haiezan.coding.me.git
   branch: master
