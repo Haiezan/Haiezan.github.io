@@ -119,3 +119,12 @@ friends: [
         href: "http://www.civilcn.com/"
     }
 ]
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo:
+    - git@github.com:Haiezan/Haiezan.github.io.git
+    - git@git.coding.net:Haiezan/Haiezan.coding.me.git
+  branch: master
