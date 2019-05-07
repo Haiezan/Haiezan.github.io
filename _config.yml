@@ -14,7 +14,12 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/about-JS-photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+# Donate setting
+donater: true
+donater-description: "扫一扫，支持作者!"
+donater-pic: /img/donate.jpg
+donater-wechat-QR: /img/wechat-QR.jpg
+donater-alipay-QR: /img/alipay-QR.jpg
 
 # SNS settings
 RSS: false

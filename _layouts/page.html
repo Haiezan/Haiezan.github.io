@@ -200,6 +200,20 @@ layout: default
                         {% endif %}
                     </div>
                 </section>
+                <!-- DONATE Page -->
+                <section class="visible-md visible-lg">
+                    <hr><h5><a href="{{'/donate/' | prepend: site.baseurl }}">DONATE</a></h5>
+                    <div class="short-about">
+                        {% if site.donater-pic %}
+                            <a href="{{ site.baseurl }}/donate">
+                                <img src="{{site.donater-pic}}"/>
+                            </a>
+                        {% endif %}
+                        {% if site.donater-description %}
+                            <p>{{site.donater-description}}</p>
+                        {% endif %}
+                    </div>
+                </section>    
                 <!-- Friends Blog -->
                 {% if site.friends %}
                 <hr>
