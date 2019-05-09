@@ -133,3 +133,7 @@ pause
 ## 开心一下
 
 * [Github Games](https://likexia.gitee.io/game/index.html)
+
+## Life
+
+* Hotel Reservation :[agoda](https://www.agoda.com/)
