@@ -12,6 +12,10 @@ header-img: "img/collection.jpg"
 
 ---
 
+## 结构
+
+* [PEER地震波下载](https://ngawest2.berkeley.edu/)
+
 ## 编程
 
 * [Visual Studio Code](https://code.visualstudio.com/)
