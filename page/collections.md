@@ -134,6 +134,10 @@ pause
 
     有 API 可用。
 
+* [showMore便捷录屏软件](https://showmore.com/)
+
+* [方方格子Excel工具箱](http://ffcell.com/)
+
 ## 开心一下
 
 * [Github Games](https://likexia.gitee.io/game/index.html)
