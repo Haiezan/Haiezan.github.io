@@ -9,7 +9,7 @@ catalog: true
 tags: 
         - jekyll
         - RubyGems
-        - blog
+        - Blog
 ---
 
 *文章转自[徐代龙的技术专栏](https://643435675.github.io/2015/02/15/create-my-blog-with-jekyll/)*
