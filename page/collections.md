@@ -20,6 +20,10 @@ header-img: "img/collection.jpg"
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
+* VBA实用代码
+
+> Range(Cells(m, 2), Cells(m, 5)).Select
+
 ## 论坛
 
 * [Qt开源社区](http://www.qter.org/)
