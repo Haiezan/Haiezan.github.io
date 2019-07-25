@@ -151,3 +151,6 @@ pause
 ## Life
 
 * Hotel Reservation :[agoda](https://www.agoda.com/)
+
+* [音乐播放 listen1](http://listen1.github.io/listen1/)
+
