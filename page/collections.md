@@ -34,6 +34,13 @@ header-img: "img/collection.jpg"
 
 * [Git](https://git-scm.com/)
 
+> ssh-keygen -t rsa -C <your_email@example.com>
+> git clone git@github.com:xxx/xxx.git
+> git rm -r test (删除文件夹)
+> git rm test.txt (删除文件)
+> git commit -m "Delete some files."
+> git push origin xxx
+
 ## 网站搭建
 
 * [ruby](https://www.ruby-lang.org/en/downloads/)
