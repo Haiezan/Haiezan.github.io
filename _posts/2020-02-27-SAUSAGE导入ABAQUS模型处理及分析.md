@@ -17,6 +17,8 @@ tags:
 > 本课程详细介绍了SAUSAGE模型导入ABAQUS进行计算分析的方法，包括模型导入、模型修改、提交计算和后处理等。
 > 学习本课程后，即使对软件不太熟悉，也可以很方便地进行ABAQUS弹塑性分析。
 
+<iframe width="95%" height="450" src="https://v.qq.com/txp/iframe/player.html?vid=r30736jzjb6" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 ## 相关文件及模型下载
 
 链接：[https://pan.baidu.com/s/15VjXpscncD2Ie0ZfdthmRg](https://pan.baidu.com/s/15VjXpscncD2Ie0ZfdthmRg) 
