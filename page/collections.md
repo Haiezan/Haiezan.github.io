@@ -27,6 +27,7 @@ header-img: "img/collection.jpg"
 * MFC图形控件: [High-speed Charting Control](https://www.codeproject.com/Articles/14075/High-speed-Charting-Control)
 
 > 百度云盘: [https://pan.baidu.com/s/1YukU_ZY3LpNztvpANTd-9w](https://pan.baidu.com/s/1YukU_ZY3LpNztvpANTd-9w) 提取码：fvrs
+> [中文介绍](https://blog.csdn.net/czyt1988/article/details/8740500)
 
 ## 论坛
 
