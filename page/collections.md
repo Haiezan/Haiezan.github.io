@@ -24,6 +24,10 @@ header-img: "img/collection.jpg"
 
 > Range(Cells(m, 2), Cells(m, 5)).Select
 
+* MFC图形控件: [High-speed Charting Control](https://www.codeproject.com/Articles/14075/High-speed-Charting-Control)
+
+> 百度云盘: [https://pan.baidu.com/s/1YukU_ZY3LpNztvpANTd-9w](https://pan.baidu.com/s/1YukU_ZY3LpNztvpANTd-9w) 提取码：fvrs
+
 ## 论坛
 
 * [Qt开源社区](http://www.qter.org/)
