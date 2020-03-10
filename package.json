@@ -1,9 +1,9 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <qiubaiyingios@163.com>",
-    "version": "1.7.0",
-    "homepage": "http://qiubaiying.github.io",
+    "name": "JS-blog",
+    "title": "JS Blog",
+    "author": "JS <wintersjia@163.com>",
+    "version": "1.0.0",
+    "homepage": "http://https://haiezan.github.io/",
     "repository": {
         "type": "git",
         "url": "https://github.com/qiubaiying/qiubaiying.github.io"
