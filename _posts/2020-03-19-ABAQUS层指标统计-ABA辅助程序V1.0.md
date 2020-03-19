@@ -1,0 +1,68 @@
+---
+layout:     post
+title:      ABAQUS层指标统计-ABA辅助程序V1.0
+subtitle:   介绍了Delta线性屈曲分析的相关原理、使用方法以及工程案例。
+date:       2020-02-28
+author:     JS
+header-img: img/post-bg-nonlinearity.jpg
+catalog: true
+tags:
+    - Delta
+    - SAUSG
+    - 欧拉公式
+    - 屈曲分析
+    - 跨层柱
+    - 视频
+---
+
+## 视频
+
+> 本课程介绍了Delta线性屈曲分析的相关原理、使用方法以及工程案例。
+
+<iframe width="95%" height="450" src="https://v.qq.com/txp/iframe/player.html?vid=f3069yarp95" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+## PPT
+
+### slide 1
+![](https://pic.downk.cc/item/5e6dd98be83c3a1e3ad13326.jpg)
+
+### slide 2
+![](https://pic.downk.cc/item/5e6dd98be83c3a1e3ad1332a.jpg)
+
+### slide 3
+![](https://pic.downk.cc/item/5e6dd98be83c3a1e3ad1332c.jpg)
+
+### slide 4
+![](https://pic.downk.cc/item/5e6dd98be83c3a1e3ad13330.jpg)
+
+### slide 5
+![](https://pic.downk.cc/item/5e6dd98be83c3a1e3ad13332.jpg)
+
+### slide 6
+![](https://pic.imgdb.cn/item/5e6ddfa9e83c3a1e3ad5b3f6.gif)
+
+### slide 7
+![](https://pic.downk.cc/item/5e6ddaa0e83c3a1e3ad1ce8d.jpg)
+
+### slide 8
+![](https://pic.imgdb.cn/item/5e6de205e83c3a1e3ad7e064.gif)
+
+### slide 9
+<iframe width="95%" height="450" src="https://v.qq.com/txp/iframe/player.html?vid=h0934g21otx" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### slide 10
+![](https://pic.downk.cc/item/5e6ddaa0e83c3a1e3ad1ce95.jpg)
+
+### slide 11
+![](https://pic.downk.cc/item/5e6ddaafe83c3a1e3ad1d875.jpg)
+
+## 相关资料下载
+
+关注微信公众号“梁柱墙笔记”，后台回复“Delta线性屈曲分析”获取下载链接。
+
+## 关注微信公众号
+
+如果本文对您有帮助，请转发让更多人看到，欢迎关注我的微信公众号，发现有意思的东西 
+
+![](https://pic.downk.cc/item/5e50fa03bb8bdc23de243296.jpg)
+ 
