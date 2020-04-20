@@ -156,6 +156,8 @@ pause
 
 * [创客贴设计神器](https://www.chuangkit.com/)
 
+* 截图工具[ShareX](https://getsharex.com/)
+
 ## 开心一下
 
 * [Github Games](https://likexia.gitee.io/game/index.html)
