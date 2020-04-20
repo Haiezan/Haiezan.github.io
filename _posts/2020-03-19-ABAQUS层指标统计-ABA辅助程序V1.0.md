@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      ABAQUS层指标统计-ABA辅助程序V1.0
-subtitle:   介绍了Delta线性屈曲分析的相关原理、使用方法以及工程案例。
+subtitle:   介绍作者编写的一个小程序，可以方便对ABAQUS结果进行统计。
 date:       2020-02-28
 author:     JS
 header-img: img/post-bg-abaqus.jpg
