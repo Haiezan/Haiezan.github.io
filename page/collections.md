@@ -158,6 +158,8 @@ pause
 
 * 截图工具[ShareX](https://getsharex.com/)
 
+* 动态曲线[gnuplot](http://www.gnuplot.info/)
+
 ## 开心一下
 
 * [Github Games](https://likexia.gitee.io/game/index.html)
