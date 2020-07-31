@@ -160,6 +160,8 @@ pause
 
 * 动态曲线[gnuplot](http://www.gnuplot.info/)
 
+* 主打标签页/多窗口文件管理[Tablacus Explorer](https://tablacus.github.io/explorer_en.html)
+
 ## 开心一下
 
 * [Github Games](https://likexia.gitee.io/game/index.html)
