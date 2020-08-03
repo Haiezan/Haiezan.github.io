@@ -162,6 +162,8 @@ pause
 
 * 主打标签页/多窗口文件管理[Tablacus Explorer](https://tablacus.github.io/explorer_en.html)
 
+* 免费远程协助软件[ToDesk](https://www.todesk.com/)
+
 ## 开心一下
 
 * [Github Games](https://likexia.gitee.io/game/index.html)
