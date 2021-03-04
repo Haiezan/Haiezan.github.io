@@ -85,6 +85,10 @@ pause
 
 * [Notepad++](https://notepad-plus-plus.org/)
 
+* [SoftanyWordToHelpanxz](https://pan.baidu.com/s/1b34xdPWt63moOGs4e5ofOg) 提取码：q4o7 
+
+* [winchmsgduqnna](https://pan.baidu.com/s/1mBlxOe9Ql6VD_-n-U-BYVA) 提取码：me90 
+
 ` pandoc AA.md -o BB.docx `
 
 ## GitBook 及其插件
