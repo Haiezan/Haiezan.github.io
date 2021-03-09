@@ -170,6 +170,8 @@ pause
 
 * 流程图绘制[Draw.io](https://app.diagrams.net/)
 
+* 磁盘清理[SpaceSniffer](https://pan.baidu.com/s/1SUmBlBg70oaCi_bf5jNbFQ) 提取码：5n9v 
+
 ## 开心一下
 
 * [Github Games](https://likexia.gitee.io/game/index.html)
