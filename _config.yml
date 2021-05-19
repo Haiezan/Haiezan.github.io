@@ -21,6 +21,11 @@ donater-pic: /img/donate.jpg
 donater-wechat-QR: /img/wechat-QR.jpg
 donater-alipay-QR: /img/alipay-QR.jpg
 
+# Wechat setting
+weichater: true
+weichater-description: "关注作者，获取最新信息!"
+weichater-pic: /img/weichater.jpg
+
 # SNS settings
 RSS: false
 weibo_username:     2016498593

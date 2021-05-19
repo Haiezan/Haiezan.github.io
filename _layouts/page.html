@@ -200,6 +200,20 @@ layout: default
                         {% endif %}
                     </div>
                 </section>
+                <!-- Wechat Page -->
+                <section class="visible-md visible-lg">
+                    <hr><h5><a href="{{'/donate/' | prepend: site.baseurl }}">Wechat</a></h5>
+                    <div class="short-about">
+                        {% if site.wechater-pic %}
+                            <a>
+                                <img src="{{site.wechater-pic}}"/>
+                            </a>
+                        {% endif %}
+                        {% if site.wechater-description %}
+                            <p>{{site.wechater-description}}</p>
+                        {% endif %}
+                    </div>
+                </section>
                 <!-- DONATE Page -->
                 <section class="visible-md visible-lg">
                     <hr><h5><a href="{{'/donate/' | prepend: site.baseurl }}">DONATE</a></h5>
