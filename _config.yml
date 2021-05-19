@@ -24,7 +24,7 @@ donater-alipay-QR: /img/alipay-QR.jpg
 # Wechat setting
 wechater: true
 wechater-description: "关注作者，获取最新信息!"
-wechater-pic: /img/weichater.jpg
+wechater-pic: /img/wechater.jpg
 
 # SNS settings
 RSS: false
