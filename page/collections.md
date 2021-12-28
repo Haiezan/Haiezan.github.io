@@ -162,6 +162,8 @@ pause
 
 * 截图工具[ShareX](https://getsharex.com/)
 
+* 快捷截图工具[snipaste](https://zh.snipaste.com/download.html)
+
 * 动态曲线[gnuplot](http://www.gnuplot.info/)
 
 * 主打标签页/多窗口文件管理[Tablacus Explorer](https://tablacus.github.io/explorer_en.html)
