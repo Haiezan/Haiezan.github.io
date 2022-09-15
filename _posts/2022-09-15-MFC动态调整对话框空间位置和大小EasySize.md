@@ -2,7 +2,7 @@
 layout:     post
 title:      MFC动态调整对话框空间位置和大小EasySize
 subtitle:   C++
-date:       2021-03-12
+date:       2022-09-15
 author:     JS
 header-img: img/post-bg-code.jpg
 catalog: true
