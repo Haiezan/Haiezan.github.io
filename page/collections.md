@@ -29,6 +29,8 @@ header-img: "img/collection.jpg"
 > 百度云盘: [https://pan.baidu.com/s/1YukU_ZY3LpNztvpANTd-9w](https://pan.baidu.com/s/1YukU_ZY3LpNztvpANTd-9w) 提取码：fvrs
 > [中文介绍](https://blog.csdn.net/czyt1988/article/details/8740500)
 
+* 二进制文件阅读器：[HxD](https://www.onlinedown.net/soft/1259.htm)
+
 ## 教程
 
 *[黑马程序员MFC教程](https://www.bilibili.com/video/BV1JW41147NX/?share_source=copy_web&vd_source=163bddcc2c04415513a1471be926e520)
