@@ -132,6 +132,12 @@ pause
 
 ## 实用网站
 
+* [国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/index)
+
+* [行业标准信息服务平台](https://hbba.sacinfo.org.cn/)
+
+* [地方标准信息服务平台](https://dbba.sacinfo.org.cn/)
+
 * [常用中文字体英文名](http://www.ftizi5.com/wenhua/wenzi/3.html)
 
 * [图标下载](https://www.easyicon.net/)
