@@ -22,6 +22,8 @@ header-img: "img/collection.jpg"
 
 * VBA实用代码
 
+* [小龙Dev-C++](https://devcpp.gitee.io/)
+
 > Range(Cells(m, 2), Cells(m, 5)).Select
 
 * MFC图形控件: [High-speed Charting Control](https://www.codeproject.com/Articles/14075/High-speed-Charting-Control)
