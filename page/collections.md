@@ -190,6 +190,8 @@ pause
 
 * 磁盘清理[SpaceSniffer](https://pan.baidu.com/s/1SUmBlBg70oaCi_bf5jNbFQ) 提取码：5n9v 
 
+* 免费的PDF工具[PDFgear](https://www.pdfgear.com/zh/)
+
 ## 开心一下
 
 * [Github Games](https://likexia.gitee.io/game/index.html)
