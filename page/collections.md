@@ -16,6 +16,12 @@ header-img: "img/collection.jpg"
 
 * [PEER地震波下载](https://ngawest2.berkeley.edu/)
 
+## AI
+
+* [Trae.cn](https://www.trae.cn/)
+
+* [Trae国际版](https://www.trae.ai/)
+
 ## 编程
 
 * [Visual Studio Code](https://code.visualstudio.com/)
